@@ -24,7 +24,7 @@ Regionalt finns också tydliga skillnader. Exempelvis hade Gotlands län en för
 Resultaten visas även med diagram.
 
 ## Analys ##
-Resultaten visar att svesnka bostadpriser har ökat kraftigt samtidigt att bostadspriserna inte utvecklas lika i alla delar av Sverige.
+Resultaten visar att svenska bostadpriser har ökat kraftigt samtidigt att bostadspriserna inte utvecklas lika i alla delar av Sverige.
 För en AI-utvecklare visar projektet vikten av att kunna hämta och strukturera data innan den används i AI- eller machine-learning-modeller. Datakvalitet och korrekt analys är viktiga för att få tillförlitliga resultat.
 En viktig lärdom jag tog från det här projekt är att datakvalitet är en central del av AI-utveckling. Om data är felaktig, ofullständig eller felaktigt strukturerad kan även resultaten från en modell bli missvisande och kan skaffa massa problem.
 Reflektion
@@ -38,7 +38,7 @@ Projektet kan i framtiden utvecklas med machine learning för prisprognoser, fle
 
 ## GitHub ##
 Repository:
-[KListra in din GitHub-länk här]
+https://github.com/musishxo/house_price_analysis-SCB
 
 ## Installation ##
 Installera Python och biblioteken:
